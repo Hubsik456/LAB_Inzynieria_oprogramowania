@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class WIP_1 {
     @Test
-    void WIP_1_() {
+    void WIP_1() {
         Book Ksiazka_1 = new Book("WIP_1", "WIP_2", "9788656487505");
         Book Ksiazka_2 = new Book("WIP_3", "WIP_4", "9788656487505");
 
