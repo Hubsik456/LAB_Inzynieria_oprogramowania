@@ -11,6 +11,6 @@ public class WIP_1 {
         Book Ksiazka_2 = new Book("WIP_3", "WIP_4", "9788656487505");
 
         System.out.println(Ksiazka_1.equals(Ksiazka_2));
-        assertTrue(Ksiazka_1.equals(Ksiazka_2));
+        assertFalse(Ksiazka_1.equals(Ksiazka_2));
     }
 }
